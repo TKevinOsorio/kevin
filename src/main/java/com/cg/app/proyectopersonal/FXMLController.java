@@ -40,7 +40,7 @@ public class FXMLController implements Initializable {
         listaPersonal.add(new Persona (25, "Gustavo Montoya", "1113456788"));
         listaPersonal.add(new Persona (19, "Edier Herrera", "1110877744"));
         listaPersonal.add(new Persona (19, "Pedrito Melendez", "1112877644"));
-       
+        listaPersonal.add(new Persona(19, "hola", "123123123"));
     }
 
     // Mostrar datos utilizando el menu dezplegable
